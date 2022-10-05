@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    width: 1537px;
+    height: 100px;
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("nav.jpg");
+}
+
+.rightnav {
+    display: flex;
+    margin: 40px;
+
+}
+
+.rightnav ol {
+    margin: 50px;
+    display: flex;
+    padding: 20px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.rightnav ol li {
+    margin: 10px;
+
+}
+
+.rightnav ol li a {
+    text-decoration: none;
+    color: white;
+}
+
+.leftnav {
+    margin-top: 95px;
+    margin-left: 50px;
+}
+
+.btn {
+    margin-top: 70px;
+    width: 100px;
+    height: 33px;
+    margin-left: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 19px;
+    border: 2px black solid;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.input {
+    margin-top: 70px;
+    padding-left: 20px;
+    width: 170px;
+    height: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: black solid;
+    border-width: 2px;
+    border-radius: 5px;
+
+
+}
+
+.search {}
+
+.header {
+    width: 1537px;
+    height: 700px;
+
+    background-image: url();
+}
+
+.twitter {}
+
+.footer {
+    width: 1537px;
+    height: 125px;
+    background-color: whitesmoke;
+    padding: 15px;
+    background-image: url("footer.jpg");
+}
+
+.footer a {
+    margin: 5px;
+}
+
+.footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: purple;
+}

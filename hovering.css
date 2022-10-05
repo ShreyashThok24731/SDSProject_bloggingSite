@@ -1,0 +1,12 @@
+.btn:hover {
+    color: white;
+    font-weight: bold;
+    background-color: purple;
+    transition: all 0.4s;
+}
+
+.rightnav ol li a:hover {
+    
+    font-weight: bold;
+    color: white;
+}
